@@ -1,0 +1,6 @@
+- [x] Remove seeded identities, credentials, and demo-room behavior
+- [x] Make host QR setup real with user-entered Wi-Fi credentials
+- [x] Support up to 15 user-named room devices with editable channels
+- [x] Add live camera QR scanning and explicit Wi-Fi confirmation
+- [x] Add installable web app metadata and local media playback controls
+- [x] Validate production build, lint, and refreshed preview
